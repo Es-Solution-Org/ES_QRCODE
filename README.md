@@ -47,5 +47,3 @@ Contact support at [support.essolution.dev](https://support.essolution.dev)
 
 #### Change logs
 [View change logs](https://github.com/ElijahSiaw/Es_QrCode/releases/tag/v1.0.2).
- 
- #### Cheers 🍻
