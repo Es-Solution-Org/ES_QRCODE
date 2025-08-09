@@ -37,9 +37,6 @@
    * Suitable for mobile devices such as smart phones, tablets etc.
    * Operating System: *Android*
 
-#### Downloads 🔰
-[Download apk](https://raw.githubusercontent.com/ElijahSiaw/Es_QrCode/main/apk/Es%20QRCode%20Reader.apk)
-
 #### Developer ❤
 * Name: Es Solution
 * Email: iinfo@essolution.dev(mailto:info@essolution.dev)
