@@ -39,7 +39,7 @@
 
 #### Developer ❤
 * Name: Es Solution
-* Email: iinfo@essolution.dev(mailto:info@essolution.dev)
+* Email: [info@essolution.dev](mailto:info@essolution.dev)
 
 #### Bug 🐛
 Report a bug found to [esqrcode.essolution.dev/feedback](https://esqrcode.essolution.dev/feedback) 
